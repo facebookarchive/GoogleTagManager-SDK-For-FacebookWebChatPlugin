@@ -2,5 +2,8 @@ homepage: "https://www.simoahava.com/"
 documentation: "https://www.simoahava.com/custom-templates/facebook-customer-chat"
 versions:
   # Latest version
+  - sha: f9b3d372234108915ca815eba9392d9d7181ea93
+    changeNotes: Add option to change locale of SDK
+  # Older versions
   - sha: 324174b32ce85b93d49b251898dde8eec7fc780f
     changeNotes: Initial release
