@@ -39,7 +39,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "appId",
     "displayName": "Facebook App ID",
     "simpleValueType": true,
-    "help": "[optional] Add your Facebook App ID. Note! You have to configure the Customer Chat Plugin per \u003ca href\u003d\"https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin\"\u003ethe instructions\u003c/a\u003e. This template is only used to load the Facebook Javascript SDK and add event listeners to the plugin and dialog load/show/hide events."
+    "help": "[optional] Add your Facebook App ID. Note! You have to configure the Customer Chat Plugin per \u003ca href\u003d\"https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin\"\u003ethe instructions\u003c/a\u003e. This template is only used to load the Facebook Customer Chat SDK and add event listeners to the plugin and dialog load/show/hide events."
   },
   {
     "type": "GROUP",
